@@ -1,9 +1,17 @@
-### Hi there 👋
+<h1 align="center">Rafael de Andrade Carneiro</h1>
+<h3 align="center">Estudante de programação e segurança de redes de Curitiba.</h3>
 
-<!--
-**randracar/randracar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programo desde os 12 anos como hobbie, e agora decidi transformar hobbie em profissão.
 
-Here are some ideas to get you started:
+🌱 Atualmente aprendendo o uso de Python3 para programação focada em rede;
+⚡ Jovem e com vontade de aprender cada vez mais e mais;
+🔭 Tenho conhecimento em programação orientada a objetos, uso de git e github, sockets, base64, e sei usar tanto Windows como Linux e suas funcionalidades.
+📫 Meu email é: randracar@terra.com.br
+
+
+<a href="www.linkedin.com/in/rafaelandradecarneiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/rafaelandradecarneiro" height="20" width="20" /></a>
+
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/33944736/172074211-17819702-bf96-4dee-863a-cddf4f3fb1d0.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
