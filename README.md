@@ -9,4 +9,4 @@ Programo desde os 12 anos como hobbie, e agora decidi transformar hobbie em prof
 📫 Meu email é: randracar@terra.com.br
 
 
-<a href="www.linkedin.com/in/rafaelandradecarneiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/rafaelandradecarneiro" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rafaelandradecarneiro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/rafaelandradecarneiro" height="20" width="20" /></a>
