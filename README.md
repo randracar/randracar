@@ -3,7 +3,7 @@
 
 Programo desde os 12 anos como hobbie, e agora decidi transformar hobbie em profissão.
 
--🌱 Atualmente aprendendo o uso de C e Python3 para programação focada em rede;
+-🌱 Atualmente aprendendo o uso de Go para programação focada em rede;
 
 -⚡ Jovem e com vontade de aprender cada vez mais e mais;
 
