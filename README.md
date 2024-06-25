@@ -3,6 +3,8 @@
 
 Programo desde os 12 anos como hobbie, e agora decidi transformar hobbie em profissão.
 
+-⚡ Cursando BSc Computer Science pela University of London;
+
 -🌱 Atualmente aprendendo o uso de Go para programação focada em rede;
 
 -⚡ Jovem e com vontade de aprender cada vez mais e mais;
